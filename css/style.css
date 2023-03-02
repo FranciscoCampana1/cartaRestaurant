@@ -1,0 +1,21 @@
+.my-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-row{
+    display: flex;
+    justify-content: center;
+}
+
+
+.recibimiento{
+    margin-top: 1em;
+}
+
+.my-col{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+}

@@ -12,12 +12,17 @@
 
 .recibimiento{
     margin-top: 1em;
+    font-family: cursive;
+    
 }
 
 .my-col{
     display: flex;
     justify-content: center;
     margin-top: 2em;
+}
+.container-carta{
+    height: 100vh;
 }
 
 .row-home{
@@ -28,4 +33,27 @@ input,
 textarea{
     border: 2px solid black;
     border-radius: 10px;
+}
+
+
+            /* FONDOS Y COLORES DE LA WEB */
+
+
+body{
+    background-image: linear-gradient(to right top, #494146, #755258, #9f6658, #b6854f, #b3ad4e, #a3bc4e, #8bca57, #62d96a, #52cf57, #41c642, #2cbc2a, #0cb200);}
+
+
+.menu-desplegable{
+    background-color: rgba(0, 0, 0, 0.149) !important;
+    font-family: cursive;
+    
+}
+
+.pimiento{
+    border-radius: 2em;
+    box-shadow: 5px 5px 5px 5px;
+}
+
+*{
+    font-family: cursive;
 }

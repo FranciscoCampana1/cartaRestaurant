@@ -24,3 +24,8 @@
     margin-top: 3em;
 }
 
+input,
+textarea{
+    border: 2px solid black;
+    border-radius: 10px;
+}

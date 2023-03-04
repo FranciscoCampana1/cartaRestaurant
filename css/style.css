@@ -2,6 +2,10 @@
     font-family: cursive;
 }
 
+.menu-class{
+    box-shadow: 2px 2px;
+}
+
 .my-container {
     display: flex;
     justify-content: center;
@@ -55,7 +59,7 @@ textarea {
 
 
 body {
-    background-color: #295733;
+    background-color: #295733e7;
 }
 
 .menu-desplegable {
@@ -66,8 +70,8 @@ body {
 }
 
 .pimiento {
-    border-radius: 2em;
-    box-shadow: 5px 5px 5px 5px;
+    border-radius: 1em;
+    box-shadow: 5px 5px ;
 }
 
 .my-carta {

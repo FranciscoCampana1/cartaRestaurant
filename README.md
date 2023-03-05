@@ -1,46 +1,81 @@
-# Project Title
+# Resto-Bar Tijuana
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Introducción](#about)
+- [Especificaciones](#getting_started)
+- [Stack](#stack)
+- [Images](#images)
 
-## About <a name = "about"></a>
+## Introducción <a name = "about"></a>
+<h1></h1>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Creamos este proyecto con el objetivo de raelizar la web del RestoBar Tijuana y su  carta incorporada, de manera que sea Responsive tanto para pantalla de móvil (first), tablet y PC o de mayor tamaño.
+<br>
+<br>
+## Especifiaciones <a name = "getting_started"></a>
 
-## Getting Started <a name = "getting_started"></a>
+<h1></h1>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+<h3>
+<li> Se puede acceder a dicha web desde cualquier dispositivo. </li>
+</h3> <br>
 
-### Prerequisites
+## Stack <a name = "stack"></a>
+<h1></h1>
+ <h3><li>Como base de la estrucura se utilizó
+<a href="https://lenguajehtml.com/">
+    <img src="img/html.png" alt="imagen_html" target="_blank" width="80px">
+</a>, para la creación de estilos fue <a href="https://lenguajecss.com/" target="_blank" >
+    <img src="img/css.png" alt="imagen_css"width="80px">
+</a> y para hacer la web responsive mediante <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="img/boostrap.jpg" width="100"> </a>.
+</h2></li>
+<br>
 
-What things you need to install the software and how to install them.
+
+
+
+ ## Images <a name = "images"></a>
+<h1></h1>
+<br>
+<br>
+
+
+<img src="img/TijuanaMovil.png" alt=" imagen adaptada a movil">
+<br>
+<br>
+<br>
 
 ```
-Give examples
+Comienza con el menú Hamburguesa hasta pantallas de 992px (tamaño lg en boostrap)
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+<br>
+<br>
+<br>
+<img src="img/TijuanaTablet.png" alt="imagen-tablet">
+<br>
+<br>
+<br>
 
 ```
-until finished
+Variacion de posicionamiento trabajado con boostrap
 ```
+<br>
+<br>
 
-End with an example of getting some data out of the system or using it for a little demo.
 
-## Usage <a name = "usage"></a>
+<img src="img/TijuanaNotebook.png" alt="Imagen notebook">
+<br>
+<br>
+<br>
 
-Add notes about how to use the system.
+```
+Vista previa desde pantallas lg (992px) en adelante
+```
+<br>
+<br>
+<br>
+
+<h3>
+<li> Cick aquí para ver el <a href="https://franciscocampana1.github.io/cartaRestaurant/">Demo</a></li>
+</h3>

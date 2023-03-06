@@ -72,11 +72,6 @@ body {
 
 }
 
-.edgeAndShadow {
-    border-radius: 1em;
-    box-shadow: 5px 5px ;
-}
-
 .my-carta {
     margin-top: 1em;
     background-color: #cead53;
@@ -88,7 +83,7 @@ body {
     border-radius: 5px 5px;
     box-shadow: 5px 5px;
     width: 35vw;
-
+    
 }
 
 .row-contacto {
@@ -99,8 +94,11 @@ body {
 
 
 
-.footer {
-    background-color: rgba(202, 186, 186, 0.325);
+/* estilos para las imagenes*/
+
+.edgeAndShadow {
+    border-radius: 1em;
+    box-shadow: 5px 5px ;
 }
 
 .zoom{
@@ -112,6 +110,28 @@ body {
     color: white;
 }
 
+/* estilos para el pie de página*/
+
+
+.footer {
+    background-color: rgba(202, 186, 186, 0.325);
+}
+.redes-footer{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    
+}
+
 a{
     color: black;
+}
+.link{
+    text-decoration: none;
+}
+
+.horarios{
+    padding: 2em;
+    display: flex;
+
 }

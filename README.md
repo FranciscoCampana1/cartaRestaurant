@@ -28,7 +28,7 @@ Creamos este proyecto con el objetivo de raelizar la web del RestoBar Tijuana y 
     <img src="img/html.png" alt="imagen_html" target="_blank" width="80px">
 </a>, para la creación de estilos fue <a href="https://lenguajecss.com/" target="_blank" >
     <img src="img/css.png" alt="imagen_css"width="80px">
-</a> y para hacer la web responsive mediante <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="img/boostrap.jpg" width="100"> </a>.
+</a> y para hacer la web responsive mediante <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"><img src="img/boostrap.jpg" width="80px"> </a>.
 </h2></li>
 <br>
 
